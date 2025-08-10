@@ -44,9 +44,6 @@
 - 📧 Email: [cristiangutierrezcruz67@gmail.com](mailto:cristiangutierrezcruz67@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/cgc-dev](https://linkedin.com/in/cgc-dev)
 
----
-
-<p align="center">💙 Gracias por visitar mi perfil 💙</p>
 
 
 

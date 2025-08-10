@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="/assets/banner.png" alt="banner" />
-</p>
+
+<img src="/assets/banner.png" width="100%" alt="banner" />
+
 
 <h1 align="center">Hi 👋, I'm Cristian Gutierrez</h1>
 <h3 align="center">Frontend Developer| Passionate about code and technology</h3>
